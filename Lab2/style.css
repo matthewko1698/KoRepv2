@@ -1,7 +1,4 @@
-@@font-face {
-  font-family: Lobster;
-  src: "https://fonts.googleapis.com/css?family=Lobster|Montserrat";
-}
+@import "https://fonts.googleapis.com/css?family=Lobster|Montserrat";
 a:link{
   color: #ffffff;
   text-decoration: none;
